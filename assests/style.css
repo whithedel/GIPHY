@@ -23,3 +23,6 @@ body{
     margin:0;
 }
 
+figure, video {
+    display: inline-block;
+}
