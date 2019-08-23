@@ -1,4 +1,5 @@
 # GIPHY
 
-1.Overview
-In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
+1- This is an app that can make API call to the Giphy website. 
+2- Whit the app you will be using giphy's the dynamicaly change the webpage using Jquery, Javascript, and HTML. 
+
